@@ -5,6 +5,8 @@ Threshold Model and Unit Root Tests in Cross-Section and Time Series Data Use Pa
 
 Panel Data Regression for threshold model and unit root tests Use Package pdR (ptm) With (In) R Software
 
+https://www.youtube.com/watch?v=ElBkU7fTCmI
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
